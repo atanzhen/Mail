@@ -10,7 +10,7 @@
 
 自动检测 Python 版本、自适应依赖降级、释放 25 端口、配置 Systemd 服务：
 
-bash <(wget -qO- atusu.cn/mail/1.0/install.sh)
+     bash <(wget -qO- atusu.cn/mail/1.0/install.sh)
 
 首次运行自动安装，再次运行进入交互式管理菜单（重载 / 重装 / 卸载）。
 
