@@ -289,7 +289,7 @@ INDEX_HTML = r"""
             <div class="header-row">
                 <div class="header-left">
                     <h1>📬 TempMail</h1>
-                    <p>安全、匿名、阅后即焚</p>
+                    <p>安全、匿名、10分钟邮箱</p>
                 </div>
                 <div class="header-right">
                     <div class="sync-status" id="sync-status">⏳ 初始化...</div>
