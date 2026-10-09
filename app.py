@@ -17,7 +17,7 @@ APP_PORT = int(os.getenv("APP_PORT", "8080"))
 SMTP_HOST = os.getenv("SMTP_HOST", "0.0.0.0")
 SMTP_PORT = int(os.getenv("SMTP_PORT", "25"))
 MAX_EMAIL_SIZE = int(os.getenv("MAX_EMAIL_SIZE", str(10 * 1024 * 1024)))
-GITHUB_URL = os.getenv("GITHUB_URL", "https://github.com/your-repo/temp-mail")
+GITHUB_URL = os.getenv("GITHUB_URL", "https://github.com/atanzhen/Mail")
 
 FRONT_RETENTION_MINUTES = 10      # 前端展示保留时间(分钟)
 BACKEND_RETENTION_DAYS = 7        # 数据库物理清理时间(天)
