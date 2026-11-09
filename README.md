@@ -2,6 +2,7 @@
 
 > **开源版 · 禁止商用** ｜ 开发者 [atusu.cn](https://atusu.cn/mail) ｜ 项目主页 [atusu.cn/mail](https://atusu.cn/mail)
 > 版本 **2.2.1** ｜ Linux（x86_64 / ARM64 / ARMv7）· macOS（Intel / Apple Silicon）· Docker
+> 程序完全开源，部署收集IP和域名仅部署时回传一次后续如任何上报和通信操作
 
 轻量、可自托管的临时邮箱（Temp Mail）系统：网页一键生成一次性邮箱，内置 SMTP 直接收信，
 附件在线预览，无需注册、无需外部数据库（SQLite），**一个程序文件即可运行**。
