@@ -40,7 +40,7 @@ TempMail-2.2.1/
 ├── README.md                   # 本文件
 ├── LICENSE                     # 非商业许可
 │
-├── binary/                     # 【包一】二进制包：不需要 Python
+├── binary/                     # 【包一】二进制包：不需要 Python   从https://github.com/atanzhen/Mail/releases/tag/2.2.1 下载即可
 │   ├── TempMail-2.2.1-linux-amd64
 │   ├── TempMail-2.2.1-linux-arm64
 │   ├── TempMail-2.2.1-linux-armv7
