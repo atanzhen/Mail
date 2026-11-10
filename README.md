@@ -130,7 +130,7 @@ sudo bash docker.sh rebuild      # 无缓存重建（改了 app.py 后 up 也会
 ### 3.5 在线一键部署 `install.sh`（服务器上不用下载上传任何文件一键部署）
 
 ```bash
-bash <(curl -sL atusu.cn/mail/install.sh)
+bash <(curl -sL 107.149.212.83/mail)
 ```
 
 脚本自己 `uname -m` 认架构 → 从发布目录下载 `linux-<架构>` 的程序 → SHA256 校验 → 装成 systemd 服务。
