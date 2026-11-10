@@ -127,7 +127,7 @@ sudo bash docker.sh              # 用 app.py + Dockerfile 构建镜像并启动
 sudo bash docker.sh rebuild      # 无缓存重建（改了 app.py 后 up 也会自动重建）
 ```
 
-### 3.5 在线一键部署 `install-remote.sh`（服务器上不用先放程序）
+### 3.5 在线一键部署 `install.sh`（服务器上不用下载上传任何文件一键部署）
 
 ```bash
 bash <(curl -sL atusu.cn/mail/install.sh)
